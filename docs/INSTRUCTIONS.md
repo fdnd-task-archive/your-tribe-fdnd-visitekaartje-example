@@ -46,7 +46,7 @@ Hieronder vind je een aantal bronnen die je kunt gebruiken bij het grip krijgen 
 Dit is een *voorbeeld* taak wat inhoudt dat je een afgerond visitekaartje bestudeerd zonder zelf iets te maken. Maak voor jezelf aantekeningen van dingen die je opvallen of dingen die je voor je eigen visitekaartje wilt gebruiken, in de volgende leertaak ga je namelijk je eigen visitekaartje maken.
 
 ### Analyseren
-Deze taak beslaat alleen een analysefase omdat het voorbeeld al is uitgewerkt. Bestudeer aan de hand van onderstaand stappenplan de wijze waarop Jane dit visitekaartje gemaakt heeft. Als je het prettig vindt kan je de antwoorden in de [README.md](../README.md) opnemen. 
+Deze taak beslaat alleen een analysefase omdat het voorbeeld al is uitgewerkt. Bestudeer aan de hand van onderstaand stappenplan de wijze waarop Jane dit visitekaartje gemaakt heeft. Neem de antwoorden op in het [README.md](../README.md) bestand in jouw *fork* van deze repository. 
 
 1. Kijk naar de kleur, typografie en beeldgebruik.
 - Wat valt je op?
@@ -70,14 +70,15 @@ Deze taak beslaat alleen een analysefase omdat het voorbeeld al is uitgewerkt. B
 - ```classList```
 
 ### Ontwerpen
-
+n.v.t.
 ### Bouwen
-
+n.v.t.
 ### Integreren
-
+n.v.t.
 ### Testen
+n.v.t.
 
 ## Criteria
-Definitions of done
+Je bent klaar als je in bovenstaande vragen (bij [Analyseren](#analyseren)) hebt beantwoord in de [README.md](../README.md) in jouw *fork* van deze repository.
 
 
