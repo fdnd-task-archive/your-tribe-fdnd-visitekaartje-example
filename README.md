@@ -5,8 +5,8 @@ Korte omschrijving van de uitwerking.
 
 ## Description 🤓
 
-Add a link to your live demo in Github Pages 🌐
-Add a nice poster image here at the end of the week, showing off your shiny frontend 📸
+![Visitekaartje](./docs/VisitekaartjeChrome.png "Visitekaartje")  
+[Bekijk visitekaartje](fdnd-task.github.io/fdnd-net-presence-example/)
 
 ## Table of Contents
 
