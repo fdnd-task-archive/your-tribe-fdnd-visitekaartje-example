@@ -3,8 +3,6 @@
 # Visitekaartje van Jane Doe (voorbeeld) 
 Je bestudeert een uitgewerkt visitekaartje en bekijkt daarbinnen de semantiek in de HTML, de opmaak in CSS en de functionaliteit in Javascript.
 
-## Beschrijving 🤓
-
 ![Visitekaartje](./docs/VisitekaartjeChrome.png "Visitekaartje")  
 [Bekijk visitekaartje](fdnd-task.github.io/fdnd-net-presence-example/)
 
