@@ -49,9 +49,20 @@ Dit is een *voorbeeld* taak wat inhoudt dat je een afgerond visitekaartje bestud
 Deze taak beslaat alleen een analysefase omdat het voorbeeld al is uitgewerkt. Bestudeer aan de hand van onderstaand stappenplan de wijze waarop Jane dit visitekaartje gemaakt heeft. Neem de antwoorden op in het [README.md](../README.md) bestand in jouw *fork* van deze repository. 
 
 1. Kijk naar de kleur, typografie en beeldgebruik.
-- Wat valt je op?
-- Welke kleuren heeft Jane gebruikt?
-- Wat voor afbeelding gebruikt ze?
+Beschrijf het kleurgebruik
+Denk aan:
+Welke kleuren heeft Jane gebruikt (kleurcodes)? 
+Hoe zou je het palet noemen (monochroom, complementair etc.)
+
+Beschrijf het (gebruik van) het lettertype.
+Denk aan:
+Welk lettertype heeft ze gebruikt?
+Heeft ze ook kapitalen gebruikt?
+
+Beschrijf het (gebruik van) de afbeelding.
+Denk aan:
+Hoe is de foto uitgesneden?
+Wat doet de plaatsing van de foto in het vlak?
 
 2. Bekijk de HTML met de Chrome Devtools Element Tab.
 - Welk HTML element staat om het visitekaartje heen?
