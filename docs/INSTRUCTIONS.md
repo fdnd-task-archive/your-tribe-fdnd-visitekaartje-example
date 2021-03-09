@@ -49,10 +49,11 @@ Dit is een *voorbeeld* taak wat inhoudt dat je een afgerond visitekaartje bestud
 Deze taak beslaat alleen een analysefase omdat het voorbeeld al is uitgewerkt. Bestudeer aan de hand van onderstaand stappenplan de wijze waarop Jane dit visitekaartje gemaakt heeft. Neem de antwoorden op in het [README.md](../README.md) bestand in jouw *fork* van deze repository. 
 
 1. Kijk naar de kleur, typografie en beeldgebruik.
-Beschrijf het kleurgebruik
+Beschrijf het kleurgebruik.
 Denk aan:
 Welke kleuren heeft Jane gebruikt (kleurcodes)? 
 Hoe zou je het palet noemen (monochroom, complementair etc.)
+Zit er verloop in de kleuren? wat is het effect hiervan op het ontwerp?
 
 Beschrijf het (gebruik van) het lettertype.
 Denk aan:
