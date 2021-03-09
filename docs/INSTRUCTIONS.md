@@ -57,7 +57,8 @@ Hoe zou je het palet noemen (monochroom, complementair etc.)
 Beschrijf het (gebruik van) het lettertype.
 Denk aan:
 Welk lettertype heeft ze gebruikt?
-Heeft ze ook kapitalen gebruikt?
+Heeft ze ook kapitalen/cursief gebruikt? Zo ja, wat is het effect hiervan op het ontwerp?
+Heeft ze de teksten gecentreerd, links of rechts uitgelijnd? wat is het effect hiervan op het ontwerp?
 
 Beschrijf het (gebruik van) de afbeelding.
 Denk aan:
