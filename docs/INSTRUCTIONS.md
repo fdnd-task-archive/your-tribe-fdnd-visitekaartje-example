@@ -6,7 +6,9 @@ Je bestudeert een uitgewerkt visitekaartje en bekijkt daarbinnen de semantiek in
 De _example_ leertaak van het visitekaartje wordt behandeld tijdens de workshop, je kunt deze repository gebruiken om de onderwerpen nog eens rustig na te lezen.
 
 ## Context
-Om straks in staat te zijn jezelf op een goede manier binnen jouw tribe voor te stellen is het handig om te bestuderen hoe 'Jane' dat heeft gedaan. Aansluitend op deze bestudering ga je zelf óók een online visitekaartje maken in de leertaak [fdnd-net-presence-duplicate](https://github.com/fdnd-task/fdnd-net-presence-duplicate).
+Leertaak: Bestudeert het ontwerpen en maken van een visitekaartje in HTML, CSS en JS.
+
+Deze leertaak hoort bij sprint 1 "Your Tribe". Dit is een voorbeeld taak.
 
 ## Briefing
 Bestudeer aan de hand van onderstaande stappen (bij werkwijze) de structuur, de vormgeving en de interactie van dit voorbeeld visitekaartje. Je kunt [het resultaat alvast in de browser bekijken](https://fdnd-task.github.io/fdnd-net-presence-example/) zodat je weet waarmee we aan de slag gaan.
