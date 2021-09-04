@@ -3,7 +3,7 @@
 # Visitekaartje
 Je bestudeert een uitgewerkt visitekaartje en bekijkt daarbinnen de semantiek in de HTML, de opmaak in CSS en de functionaliteit in Javascript.
 
-**Nb**: Dit voorbeeld wordt behandeld tijdens een talk, je kunt deze repository gebruiken om de onderwerpen nog eens rustig na te lezen.
+De _example_ leertaak van het visitekaartje wordt behandeld tijdens de workshop, je kunt deze repository gebruiken om de onderwerpen nog eens rustig na te lezen.
 
 ## Context
 Om straks in staat te zijn jezelf op een goede manier binnen jouw tribe voor te stellen is het handig om te bestuderen hoe 'Jane' dat heeft gedaan. Aansluitend op deze bestudering ga je zelf óók een online visitekaartje maken in de leertaak [fdnd-net-presence-duplicate](https://github.com/fdnd-task/fdnd-net-presence-duplicate).
