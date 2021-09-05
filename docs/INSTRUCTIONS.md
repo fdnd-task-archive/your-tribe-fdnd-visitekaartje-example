@@ -127,6 +127,7 @@ De code die je hebt gemaakt ga je uploaden naar Github. Daarna maak je een url a
 
 #### Materiaal integratiefase
 
+- [Wat is GitHub? Hier een heldere uitleg!](https://programmeerplaats.nl/wat-is-github/)
 - [Creating a Github pages site @ Github](https://docs.github.com/en/github/working-with-github-pages/creating-a-github-pages-site#creating-your-site)
 - [How To Publish Your HTML With Github Pages @ Github](https://anilemrah.medium.com/how-to-publish-your-html-with-github-pages-8f3f854e7d4)
 
