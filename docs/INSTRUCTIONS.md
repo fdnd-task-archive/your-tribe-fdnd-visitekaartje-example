@@ -42,56 +42,106 @@ Hieronder vind je een aantal bronnen die je kunt gebruiken bij het grip krijgen 
 ### Tools
 - [Chrome Dev Tools Elements Tab @ YouTube](https://www.youtube.com/watch?v=Z3HGJsNLQ1E)
 
+
 ## Werkwijze
-Dit is een *voorbeeld* taak wat inhoudt dat je een afgerond visitekaartje bestudeerd zonder zelf iets te maken. Maak voor jezelf aantekeningen van dingen die je opvallen of dingen die je voor je eigen visitekaartje wilt gebruiken, in de volgende leertaak ga je namelijk je eigen visitekaartje maken.
+*De werkwijze volgt de fasering van de Development Life Cycle.*
+
+Dit is een *voorbeeld* taak die wordt behandeld in het bijhorende college. Deze opdracht gaat over alle fases van de DLC [analyseren](#analyseren), [ontwerpen](#ontwerpen), [bouwen](#bouwen), [integreren](#integreren) en [testen](#testen).
+Maak voor jezelf aantekeningen van dingen die je opvallen of dingen die je voor je eigen visitekaartje wilt gebruiken, in de volgende leertaak ga je namelijk je eigen visitekaartje maken.
+
+
 
 ### Analyseren
-Deze taak beslaat alleen een analysefase omdat het voorbeeld al is uitgewerkt. Bestudeer aan de hand van onderstaand stappenplan de wijze waarop Jane dit visitekaartje gemaakt heeft. Neem de antwoorden op in het [README.md](../README.md) bestand in jouw *fork* van deze repository. 
+*In de analysefase inventariseer je wat er moet gebeuren om een taak uit te voeren.*
 
-1. Kijk naar de kleur, typografie en beeldgebruik.
-- Beschrijf het kleurgebruik.
-  Denk aan:
-  Welke kleuren heeft Jane gebruikt (kleurcodes)? 
-  Hoe zou je het palet noemen (monochroom, complementair etc.)
-  Zit er verloop in de kleuren? wat is het effect hiervan op het ontwerp?
+In de analysefase inventariseer je wat er moet gebeuren om een taak uit te voeren en formuleer je een aantal uitgangspunten waar je ontwerp aan moet voldoen.<img width="2141" alt="image" src="https://user-images.githubusercontent.com/1391509/132124411-e1fd06f6-2c99-473f-a855-0d0e88cda3b1.png">
 
-- Beschrijf het (gebruik van) het lettertype.
-  Denk aan:
-  Welk lettertype heeft ze gebruikt?
-  Heeft ze ook kapitalen/cursief gebruikt? Zo ja, wat is het effect hiervan op het ontwerp?
-  Heeft ze de teksten gecentreerd, links of rechts uitgelijnd? wat is het effect hiervan op het ontwerp?
 
-- Beschrijf het (gebruik van) de afbeelding.
-  Denk aan:
-  Hoe is de foto uitgesneden?
-  Wat doet de plaatsing van de foto in het vlak?
+<details>
+<summary>Aanpak</summary>
 
-2. Bekijk de HTML met de Chrome Devtools Element Tab.
-- Welk HTML element staat om het visitekaartje heen?
-- In welk HTML element staat de naam 'Jane Doe'?
- 
-3. Bekijk de CSS met de Chrome Devtools Element Tab.
-- Hoe maak je afgeronde hoekjes met CSS?
-- Hoe maak je een schaduw met CSS?
-- Hoe maak je een kleurverloop (gradient) met CSS?
+1. {geef de stappen}
+2. {die in deze fase}
+3. {doorlopen worden}
 
-4. Bekijk de Javascript door [het bestand in Github te openen](../scripts/script.js) en zoek de betekenis op van onderstaande termen:
-- ```document```
-- ```querySelector```
-- ```function```
-- ```const```
-- ```classList```
+#### Materiaal
+
+- [Resource](https://example.com)
+- [Resource](https://example.com)
+- [Resource](https://example.com)
+
+</details>
 
 ### Ontwerpen
-n.v.t.
-### Bouwen
-n.v.t.
-### Integreren
-n.v.t.
-### Testen
-n.v.t.
+*In de ontwerpfase neem je ontwerpbeslissingen en zorg je dat je precies weet wat je moet gaan bouwen.*
 
-## Criteria
-Je bent klaar als je in bovenstaande vragen (bij [Analyseren](#analyseren)) hebt beantwoord in de [README.md](../README.md) in jouw *fork* van deze repository.
+<details>
+<summary>Aanpak</summary>
+
+1. {geef de stappen}
+2. {die in deze fase}
+3. {doorlopen worden}
+
+#### Materiaal
+
+- [Resource](https://example.com)
+- [Resource](https://example.com)
+- [Resource](https://example.com)
+
+</details>
+
+### Bouwen
+*In de bouwfase realiseer je de beslissingen uit de ontwerpfase.*
+
+<details>
+<summary>Aanpak</summary>
+
+1. {geef de stappen}
+2. {die in deze fase}
+3. {doorlopen worden}
+
+#### Materiaal
+
+- [Resource](https://example.com)
+- [Resource](https://example.com)
+- [Resource](https://example.com)
+
+</details>
+
+### Integreren
+*In de integratiefase voer je de aanpassingen door zodat iedereen ze kan zien.*
+
+<details>
+<summary>Aanpak</summary>
+
+1. {geef de stappen}
+2. {die in deze fase}
+3. {doorlopen worden}
+
+#### Materiaal
+
+- [Resource](https://example.com)
+- [Resource](https://example.com)
+- [Resource](https://example.com)
+
+</details>
+
+### Testen
+*In de testfase controleer je of jouw aanpassingen werken zoals bedoeld.*
+
+<details>
+<summary>Aanpak</summary>
+
+1. {geef de stappen}
+2. {die in deze fase}
+3. {doorlopen worden}
+
+#### Materiaal
+
+- [Resource](https://example.com)
+- [Resource](https://example.com)
+- [Resource](https://example.com)
+
+</details>
 
 
