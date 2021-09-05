@@ -117,14 +117,22 @@ Workstation
 ### Integreren
 In de integratiefase voer je de aanpassingen door zodat iedereen ze kan zien.
 
-Eerst Upload de code die je hebt gemaakt naar Github. Daarna maak je een url aan met Github pages, als je visitekaartje een url heeft staat het online en kunnen ook anderen je werk zien. 
+Eerst voeg je de nieuwe code toe aan je lokale _repository_ zodat Github weet wat de nieuwste versie is. Daarna ga je de code uploaden naar de online _repository_ op Github. Tot slot ga je je opdracht publiceren met behulp van Github Pages. Als je dat hebt gedaan staat je website online en hebb je een url, nu kunnen anderen je werk ook zien. 
 
 <details>
 <summary>Aanpak</summary>
 
-1. {geef de stappen}
-2. {die in deze fase}
-3. {doorlopen worden}
+1. Eerst moet je de gewijzigde code toevoegen aan je lokale _repository_ . Schrijf een goede titel en optioneel een beschrijving en klik [Commit to Master]
+![image](https://user-images.githubusercontent.com/1391509/132139373-76e515f6-5e5a-4518-90d7-a53e0519ab8b.png)
+
+  
+2. Daarna kun je de wijzigingen uploaden naar de online _repository_ op Github. Klik op [Push origin]
+  ![image](https://user-images.githubusercontent.com/1391509/132139469-948c4007-44d7-4d71-82a1-a927b99dca18.png)
+
+3. Om je website te publiceren moet je in de settings van je online _repository_ op Github de Github-Pages aanzetten. Select bij _Source_ de _master branch_ en  klik [Save]. Na enkele minuten zal je website online te zien zijn op de url. 
+![image](https://user-images.githubusercontent.com/1391509/132139848-851cb7a6-8a3c-4697-abe8-2ee58b7f10f3.png)
+
+
 
 #### Materiaal integratiefase
 
