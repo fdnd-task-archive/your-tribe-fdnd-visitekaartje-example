@@ -149,19 +149,8 @@ Eerst voeg je de nieuwe code toe aan je lokale _repository_ zodat Github weet wa
 </details>
 
 ### Testen
-*In de testfase controleer je of jouw aanpassingen werken zoals bedoeld.*
 
-<details>
-<summary>Aanpak</summary>
+In de testfase controleer je of jouw aanpassingen werken zoals bedoeld.
+Dit kan een technische-test zijn, maar ook een test met gebruikers of een presentatie bij de opdrachtgever om te bespreken of de opdracht goed is.
 
-1. {geef de stappen}
-2. {die in deze fase}
-3. {doorlopen worden}
 
-#### Materiaal testfase
-
-- [Resource](https://example.com)
-- [Resource](https://example.com)
-- [Resource](https://example.com)
-
-</details>
