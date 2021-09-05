@@ -67,7 +67,10 @@ Nu wordt het tijd om te kijken hoe het resultaat eruit zou kunnen zien. Dit is e
 </details>
 
 ### Bouwen
-*In de bouwfase realiseer je de beslissingen uit de ontwerpfase.*
+In de bouwfase realiseer je de beslissingen uit de ontwerpfase in HTML, CSS en JS.
+
+Op basis van je ontwerpschets ga je bedenken hoe je je ontwerp in code kan bouwen. Je zet je project op in Github en kopieert de repository naar jouw computer. Je begint met de content in HTML, voegt CSS toe voor de vormgeving en JS voor de interactie. 
+
 
 <details>
 <summary>Aanpak</summary>
