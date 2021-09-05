@@ -15,11 +15,10 @@ Op fdnd.nl komen alle visitekaartjes van de studenten te staan, op deze website 
 Na het volgen van deze opdracht heb je een beginnend idee van hoe de Development Lifecycle werkt en welke ontwerpprincipes belangrijk zijn bij het ontwerpen en maken van een eenvoudig online visitekaartje.
 
 ## Werkwijze
-*De werkwijze volgt de fasering van de Development Life Cycle.*
-
-Bestudeer aan de hand van onderstaande stappen de structuur, de vormgeving en de interactie van dit voorbeeld visitekaartje. Je kunt [het resultaat alvast in de browser bekijken](https://fdnd-task.github.io/fdnd-visitekaartje-example/) zodat je weet waarmee we aan de slag gaan.
 
 Dit is een *voorbeeld* taak die wordt behandeld in het bijhorende college. Deze opdracht gaat over alle fases van de DLC [analyseren](#analyseren), [ontwerpen](#ontwerpen), [bouwen](#bouwen), [integreren](#integreren) en [testen](#testen).
+
+Bestudeer aan de hand van onderstaande stappen de structuur, de vormgeving en de interactie van het voorbeeld visitekaartje. Je kunt [het resultaat alvast in de browser bekijken](https://fdnd-task.github.io/fdnd-visitekaartje-example/) zodat je weet waarmee we aan de slag gaan.
 
 Maak voor jezelf aantekeningen van dingen die je opvallen of dingen die je voor je eigen visitekaartje wilt gebruiken, in de volgende leertaak ga je namelijk je eigen visitekaartje maken.
 
@@ -34,12 +33,6 @@ In de analysefase inventariseer je wat er moet gebeuren om een taak uit te voere
 2. Bekijk de verschillende fases van de Development Lifecycle en wat je per stap gaat doen.
 3. Bespreek wat je aan werk verwacht en maak aantekening. (wat komt je bekend voor, wat heb je al vaker gedaan of wat lijkt je lastig)
 
-  #### Materiaal
-
-- [Resource](https://example.com)
-- [Resource](https://example.com)
-- [Resource](https://example.com)
-
 </details>
 
 ### Ontwerpen
@@ -48,7 +41,6 @@ Bij de start van de ontwerpfase weet je wat het doel en het resultaat van je pro
 
 Nu wordt het tijd om te kijken hoe het resultaat eruit zou kunnen zien. Dit is een belangrijk moment in het project.
 (Voor veel opdrachtgevers geldt dat ze nu pas duidelijk krijgen hoe het resultaat eruit zal zien. En dat is een moment waarop veel opdrachtgevers veel duidelijker kunnen aangeven wat ze wel en niet willen.)
-
 
 <details>
 <summary>Aanpak</summary>
@@ -60,9 +52,9 @@ Nu wordt het tijd om te kijken hoe het resultaat eruit zou kunnen zien. Dit is e
   <img width="856" alt="image" src="https://user-images.githubusercontent.com/1391509/132128256-8fde0aeb-d022-44bc-b666-563d6fb12f88.png">
 
 
-#### Materiaal
+#### Materiaal ontwerpfase
 
-- en en papier]
+- Pen en papier.
 
 </details>
 
@@ -79,7 +71,7 @@ Op basis van je ontwerpschets ga je bedenken hoe je je ontwerp in code kan bouwe
 2. {die in deze fase}
 3. {doorlopen worden}
 
-#### Materiaal
+#### Materiaal bouwfase
 
 Workstation
   - [Github](https://github.com)
@@ -124,7 +116,7 @@ Tools
 2. {die in deze fase}
 3. {doorlopen worden}
 
-#### Materiaal
+#### Materiaal integratiefase
 
 - [Resource](https://example.com)
 - [Resource](https://example.com)
@@ -142,7 +134,7 @@ Tools
 2. {die in deze fase}
 3. {doorlopen worden}
 
-#### Materiaal
+#### Materiaal testfase
 
 - [Resource](https://example.com)
 - [Resource](https://example.com)
