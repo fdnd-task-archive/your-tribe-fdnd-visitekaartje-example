@@ -62,6 +62,7 @@ Nu wordt het tijd om te kijken hoe het resultaat eruit zou kunnen zien. Dit is e
 </details>
 
 ### Bouwen
+
 In de bouwfase realiseer je de beslissingen uit de ontwerpfase in HTML, CSS en JS.
 
 Op basis van je ontwerpschets ga je bedenken hoe je je ontwerp in code kan bouwen. Je zet je project op in Github en kopieert de repository naar jouw computer. Je begint met de content in HTML, voegt CSS toe voor de vormgeving en JS voor de interactie. 
@@ -116,7 +117,7 @@ Workstation
 ### Integreren
 In de integratiefase voer je de aanpassingen door zodat iedereen ze kan zien.
 
-De code die je hebt gemaakt ga je uploaden naar Github. Daarna maak je een url aan met Github pages, als je visitekaartje een url heeft staat het online en kunnen ook anderen je werk zien. 
+Eerst Upload de code die je hebt gemaakt naar Github. Daarna maak je een url aan met Github pages, als je visitekaartje een url heeft staat het online en kunnen ook anderen je werk zien. 
 
 <details>
 <summary>Aanpak</summary>
