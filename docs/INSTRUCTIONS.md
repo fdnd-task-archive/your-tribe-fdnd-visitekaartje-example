@@ -14,7 +14,7 @@ Elke frontender bij [FDND](https://fdnd.nl) stelt zichzelf binnen de tribe voor 
 
 ## Doel van deze opdracht
 
-Na het volgen van deze opdracht heb je een beginnend idee van hoe de Development Lifecycle werkt en welke ontwerpprincipes belangrijk zijn bij het ontwerpen en maken van een eenvoudig online visitekaartje.
+Na het volgen van deze opdracht heb je een beginnend idee van hoe de Development Lifecycle werkt.
 
 ## Werkwijze
 
