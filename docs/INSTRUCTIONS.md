@@ -18,7 +18,7 @@ Na het volgen van deze opdracht heb je een beginnend idee van hoe de Development
 
 ## Werkwijze
 
-Dit is een *voorbeeld* taak die wordt behandeld in het bijhorende college. Deze opdracht gaat over alle fases van de DLC [analyseren](#analyseren), [ontwerpen](#ontwerpen), [bouwen](#bouwen), [integreren](#integreren) en [testen](#testen).
+Dit is een *voorbeeld* taak die wordt behandeld in het bijhorende college. Deze opdracht gaat over alle fases van de **development-lifecycle** [analyseren](#analyseren), [ontwerpen](#ontwerpen), [bouwen](#bouwen), [integreren](#integreren) en [testen](#testen).
 
 Bestudeer aan de hand van het voorbeeld de verschillende fases en de HTML structuur, de CSS vormgeving en de JS interactie. Je kunt [het resultaat alvast in de browser bekijken](https://fdnd-task.github.io/fdnd-visitekaartje-example/) zodat je weet waarmee we aan de slag gaan.
 
