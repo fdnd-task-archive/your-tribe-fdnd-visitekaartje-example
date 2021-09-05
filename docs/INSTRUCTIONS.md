@@ -9,17 +9,17 @@ Leertaak: Voorbeeld van het ontwerpen en maken van een visitekaartje in HTML, CS
 Deze leertaak hoort bij sprint 1 "Your Tribe". Dit is een voorbeeld taak en wordt behandeld tijdens de workshop. Je kunt deze repository gebruiken om de onderwerpen nog eens rustig na te lezen.
 
 ## Briefing
-Bestudeer aan de hand van onderstaande stappen (bij werkwijze) de structuur, de vormgeving en de interactie van dit voorbeeld visitekaartje. Je kunt [het resultaat alvast in de browser bekijken](https://fdnd-task.github.io/fdnd-net-presence-example/) zodat je weet waarmee we aan de slag gaan.
+Bestudeer aan de hand van onderstaande stappen (bij werkwijze) de structuur, de vormgeving en de interactie van dit voorbeeld visitekaartje. Je kunt [het resultaat alvast in de browser bekijken](https://fdnd-task.github.io/fdnd-visitekaartje-example/) zodat je weet waarmee we aan de slag gaan.
 
 ## Doel van deze opdracht
-Na het volgen van deze opdracht heb je een beginnend idee van hoe HTML, CSS en JS werken, hoe de Development Lifecycle werkt en welke ontwerpprincipes belangrijk zijn bij het ontwerpen en maken van een eenvoudig online visitekaartje.
+Na het volgen van deze opdracht heb je een beginnend idee van hoe de Development Lifecycle werkt en welke ontwerpprincipes belangrijk zijn bij het ontwerpen en maken van een eenvoudig online visitekaartje.
 
 ## Werkwijze
 *De werkwijze volgt de fasering van de Development Life Cycle.*
 
 Dit is een *voorbeeld* taak die wordt behandeld in het bijhorende college. Deze opdracht gaat over alle fases van de DLC [analyseren](#analyseren), [ontwerpen](#ontwerpen), [bouwen](#bouwen), [integreren](#integreren) en [testen](#testen).
-Maak voor jezelf aantekeningen van dingen die je opvallen of dingen die je voor je eigen visitekaartje wilt gebruiken, in de volgende leertaak ga je namelijk je eigen visitekaartje maken.
 
+Maak voor jezelf aantekeningen van dingen die je opvallen of dingen die je voor je eigen visitekaartje wilt gebruiken, in de volgende leertaak ga je namelijk je eigen visitekaartje maken.
 
 ### Analyseren
 *In de analysefase inventariseer je wat er moet gebeuren om een taak uit te voeren.*
