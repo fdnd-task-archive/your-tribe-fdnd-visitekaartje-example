@@ -9,13 +9,15 @@ Leertaak: Voorbeeld van het ontwerpen en maken van een visitekaartje in HTML, CS
 Deze leertaak hoort bij sprint 1 "Your Tribe". Dit is een voorbeeld taak en wordt behandeld tijdens de workshop. Je kunt deze repository gebruiken om de onderwerpen nog eens rustig na te lezen.
 
 ## Briefing
-Bestudeer aan de hand van onderstaande stappen (bij werkwijze) de structuur, de vormgeving en de interactie van dit voorbeeld visitekaartje. Je kunt [het resultaat alvast in de browser bekijken](https://fdnd-task.github.io/fdnd-visitekaartje-example/) zodat je weet waarmee we aan de slag gaan.
+Op fdnd.nl komen alle visitekaartjes van de studenten te staan, op deze website kijken potentiele opdrachtgevers. Presenteer jezelf door middel van een digitaal visitekaartje.
 
 ## Doel van deze opdracht
 Na het volgen van deze opdracht heb je een beginnend idee van hoe de Development Lifecycle werkt en welke ontwerpprincipes belangrijk zijn bij het ontwerpen en maken van een eenvoudig online visitekaartje.
 
 ## Werkwijze
 *De werkwijze volgt de fasering van de Development Life Cycle.*
+
+Bestudeer aan de hand van onderstaande stappen de structuur, de vormgeving en de interactie van dit voorbeeld visitekaartje. Je kunt [het resultaat alvast in de browser bekijken](https://fdnd-task.github.io/fdnd-visitekaartje-example/) zodat je weet waarmee we aan de slag gaan.
 
 Dit is een *voorbeeld* taak die wordt behandeld in het bijhorende college. Deze opdracht gaat over alle fases van de DLC [analyseren](#analyseren), [ontwerpen](#ontwerpen), [bouwen](#bouwen), [integreren](#integreren) en [testen](#testen).
 
@@ -35,14 +37,19 @@ In de analysefase inventariseer je wat er moet gebeuren om een taak uit te voere
 </details>
 
 ### Ontwerpen
-*In de ontwerpfase neem je ontwerpbeslissingen en zorg je dat je precies weet wat je moet gaan bouwen.*
+
+Bij de start van de ontwerpfase weet je wat het doel en het resultaat van je project zijn. In de ontwerpfase neem je ontwerpbeslissingen en zorg je dat je precies weet wat je moet gaan bouwen. 
+
+Nu wordt het tijd om te kijken hoe het resultaat eruit zou kunnen zien. Dit is een belangrijk moment in het project.
+(Voor veel opdrachtgevers geldt dat ze nu pas duidelijk krijgen hoe het resultaat eruit zal zien. En dat is een moment waarop veel opdrachtgevers veel duidelijker kunnen aangeven wat ze wel en niet willen.)
+
 
 <details>
 <summary>Aanpak</summary>
 
-1. {geef de stappen}
-2. {die in deze fase}
-3. {doorlopen worden}
+1. Schets in je boekje! (Wat wil je over jezelf vertellen? Waar ben je geboren? Waar woon je nu? Wat is je lievelingseten? Heb je een bijbaan? Zit je op frisbee? Heb je ambities? Waar wil je goed in worden? Wat zou een leraar van je vorige school over jou vertellen? En wat zeggen je vrienden?)
+2. Bespreek je schets en ideeën met je squad en verzamel feedback
+3. Schets een een definitieve versie van je visitekaartje
 
 #### Materiaal
 
