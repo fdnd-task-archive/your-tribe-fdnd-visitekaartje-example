@@ -12,7 +12,7 @@ Deze leertaak hoort bij sprint 1 "Your Tribe". Dit is een voorbeeld taak en word
 Bestudeer aan de hand van onderstaande stappen (bij werkwijze) de structuur, de vormgeving en de interactie van dit voorbeeld visitekaartje. Je kunt [het resultaat alvast in de browser bekijken](https://fdnd-task.github.io/fdnd-net-presence-example/) zodat je weet waarmee we aan de slag gaan.
 
 ## Doel van deze opdracht
-Na het volgen van deze opdracht heb je een beginnend idee van het samenspel tussen, en een beginnend idee van de ontwerpprincipes die betrokken zijn bij het maken van een eenvoudig online visitekaartje.
+Na het volgen van deze opdracht heb je een beginnend idee van hoe HTML, CSS en JS werken, hoe de Development Lifecycle werkt en welke ontwerpprincipes belangrijk zijn bij het ontwerpen en maken van een eenvoudig online visitekaartje.
 
 ## Materiaal
 Hieronder vind je een aantal bronnen die je kunt gebruiken bij het grip krijgen op de in dit voorbeeld gebruikte principes.
