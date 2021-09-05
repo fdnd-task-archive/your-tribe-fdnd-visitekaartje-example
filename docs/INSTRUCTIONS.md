@@ -9,16 +9,18 @@ Leertaak: Voorbeeld van het ontwerpen en maken van een visitekaartje in HTML, CS
 Deze leertaak hoort bij sprint 1 "Your Tribe". Dit is een voorbeeld taak en wordt behandeld tijdens de workshop. Je kunt deze repository gebruiken om de onderwerpen nog eens rustig na te lezen.
 
 ## Briefing
-Op fdnd.nl komen alle visitekaartjes van de studenten te staan, op deze website kijken potentiele opdrachtgevers. Presenteer jezelf door middel van een digitaal visitekaartje.
+
+Elke frontender bij [FDND](https://fdnd.nl) stelt zichzelf binnen de tribe voor door middel van een visitekaartje. Aan de hand van dit voorbeeld kun je zien wat de werkwijze is voor het ontwerpen en maken van een online visitekaartje en hoe de HTML, CSS en JS er uit ziet.
 
 ## Doel van deze opdracht
+
 Na het volgen van deze opdracht heb je een beginnend idee van hoe de Development Lifecycle werkt en welke ontwerpprincipes belangrijk zijn bij het ontwerpen en maken van een eenvoudig online visitekaartje.
 
 ## Werkwijze
 
 Dit is een *voorbeeld* taak die wordt behandeld in het bijhorende college. Deze opdracht gaat over alle fases van de DLC [analyseren](#analyseren), [ontwerpen](#ontwerpen), [bouwen](#bouwen), [integreren](#integreren) en [testen](#testen).
 
-Bestudeer aan de hand van onderstaande stappen de structuur, de vormgeving en de interactie van het voorbeeld visitekaartje. Je kunt [het resultaat alvast in de browser bekijken](https://fdnd-task.github.io/fdnd-visitekaartje-example/) zodat je weet waarmee we aan de slag gaan.
+Bestudeer aan de hand van het voorbeeld de verschillende fases en de HTML structuur, de CSS vormgeving en de JS interactie. Je kunt [het resultaat alvast in de browser bekijken](https://fdnd-task.github.io/fdnd-visitekaartje-example/) zodat je weet waarmee we aan de slag gaan.
 
 Maak voor jezelf aantekeningen van dingen die je opvallen of dingen die je voor je eigen visitekaartje wilt gebruiken, in de volgende leertaak ga je namelijk je eigen visitekaartje maken.
 
@@ -45,11 +47,12 @@ Nu wordt het tijd om te kijken hoe het resultaat eruit zou kunnen zien. Dit is e
 <details>
 <summary>Aanpak</summary>
 
-1. Schets in je boekje! (Wat wil je over jezelf vertellen? Waar ben je geboren? Waar woon je nu? Wat is je lievelingseten? Heb je een bijbaan? Zit je op frisbee? Heb je ambities? Waar wil je goed in worden? Wat zou een leraar van je vorige school over jou vertellen? En wat zeggen je vrienden?)
+1. Schets in je boekje! (Wat wil je over jezelf vertellen? Waar ben je geboren? Waar woon je nu? Wat is je lievelingseten? Heb je een bijbaan? Zit je op een sport? Heb je ambities? Waar wil je goed in worden? Wat zou een leraar van je vorige school over jou vertellen? En wat zeggen je vrienden?)
 2. Bespreek je schets en ideeën met je squad en verzamel feedback
 3. Schets een een definitieve versie van je visitekaartje
   
   <img width="856" alt="image" src="https://user-images.githubusercontent.com/1391509/132128256-8fde0aeb-d022-44bc-b666-563d6fb12f88.png">
+
 
 
 #### Materiaal ontwerpfase
@@ -63,47 +66,45 @@ In de bouwfase realiseer je de beslissingen uit de ontwerpfase in HTML, CSS en J
 
 Op basis van je ontwerpschets ga je bedenken hoe je je ontwerp in code kan bouwen. Je zet je project op in Github en kopieert de repository naar jouw computer. Je begint met de content in HTML, voegt CSS toe voor de vormgeving en JS voor de interactie. 
 
+De code schrijf je in een _code-editor_ zoals Visual Studio Code. Alle code van je project zet je op Github zodat docenten en studiegenoten kunnen zien wat je hebt gedaan. 
+
 
 <details>
 <summary>Aanpak</summary>
 
-1. {geef de stappen}
-2. {die in deze fase}
-3. {doorlopen worden}
+1. HTML is de taal waarmee webpagina's zijn gemaakt die bekeken kunnen worden op het World Wide Web. In het HTML document staat de inhoud van het ontwerp gestructureerd met HTML elementen. In het HTML document van het visitekaartje ```/index.html``` staat alle inhoud die je op de webpagina ziet. 
+
+<img width="556" alt="image" src="https://user-images.githubusercontent.com/1391509/132132325-1698026a-4a58-4ab1-83b7-977244d7c530.png">
+  
+  ![image](https://user-images.githubusercontent.com/1391509/132132438-4711eb4d-8200-449e-b306-d7c24cc70873.png)
+
+  
+
+2. De vormgeving van een webpagina worden vastgelegd in CSS, zoals de layout, achtergrondkleur, tekstkleur en grootte, randen, schaduwen etc). De CSS staat in een los document en wordt aan de HTML pagina gekoppeld in het ```<head>``` element. je mag zelf weten hoe het CSS file heet. In ons voorbeeld heet het file ```/style.css``` en staat het in de map ```/style/```.
+
+  
+  ![image](https://user-images.githubusercontent.com/1391509/132132454-6f954b31-8380-45f8-bbcc-983ab9585221.png)
+
+  ![image](https://user-images.githubusercontent.com/1391509/132132468-447722e2-8286-4439-8658-3be7ecafc5b2.png)
+
+  
+  
+3. De interactie op de pagina wordt bepaald door Javascript (JS). De JS code staat in een los document en moet ook in het HTML document worden gekoppeld. Dat kan in de ```<head>``` maar ook onder aan in het HTML document. je mag zelf weten hoe het JS file heet. In ons voorbeeld heet het file ```/script.js``` en staat het in de map ```/script/```.
+  
 
 #### Materiaal bouwfase
+
+  Over  HTML, CSS en JavaScript
+  - [Getting started with the Web op MDN](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web)
+  - [HTML: HyperText Markup Language op MDN](https://developer.mozilla.org/en-US/docs/Web/HTML)
+  - [CSS: Cascading Style Sheets op MDN](https://developer.mozilla.org/en-US/docs/Web/CSS)
+  - [What is JavaScript? op MDN](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/What_is_JavaScript)
 
 Workstation
   - [Github](https://github.com)
   - [Github Desktop](https://desktop.github.com)
   - [Visual Studio Code](https://code.visualstudio.com)
   
-Kleur en beeld
-- [The psychology of color in web design @ 99designs](https://en.99designs.nl/blog/creative-inspiration/psychology-color-web-design/)
-- [Web design color theory @ TNW](https://thenextweb.com/dd/2015/04/07/how-to-create-the-right-emotions-with-color-in-web-design/)
-- [How to use images more effectively in web design @ CreativeBloq](https://www.creativebloq.com/inspiration/how-to-use-images-more-effectively-in-web-design)
-- [Unsplash](https://unsplash.com/)
-- [Typography for Developers @ CSS-tricks](https://css-tricks.com/typography-for-developers/)
-- [Icons in web design @ Medium](https://medium.com/outcrowd/icons-in-web-design-824f57cb2db0)
-  
-HyperText Markup Language (HTML)
-- [HTML semantics @ YouTube](https://www.youtube.com/watch?v=n9T2B91hHRM)
-- [Overzicht van HTML elementen @ MDN](https://developer.mozilla.org/nl/docs/Web/HTML/Element)
-  
-Cascading StyleSheets (CSS)
-- [CSS Almanac @ CSS-tricks](https://css-tricks.com/almanac/)
-- [A Guide to flexbox @ CSS-tricks](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
-- [What the flexbox? @ Wes Bos](https://flexbox.io/)
-- [CSS Typography - Change Font, Size, Spacing & more @ YouTube](https://www.youtube.com/watch?v=RNakAX3rVVw)
-- [CSS Transitions and Animations 101 @ YouTube](https://www.youtube.com/watch?v=n9T2B91hHRM)
-
-Javascript (JS)
-- [One thing about JavaScript @ CSS-tricks](https://css-tricks.com/video-screencasts/150-hey-designers-know-one-thing-javascript-recommend/)
-
-Tools
-- [Chrome Dev Tools Elements Tab @ YouTube](https://www.youtube.com/watch?v=Z3HGJsNLQ1E)
-  
-
 </details>
 
 ### Integreren
