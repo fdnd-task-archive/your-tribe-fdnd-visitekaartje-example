@@ -10,7 +10,7 @@ Deze leertaak hoort bij sprint 1 "Your Tribe". Dit is een voorbeeld taak en word
 
 ## Briefing
 
-Elke frontender bij [FDND](https://fdnd.nl) stelt zichzelf binnen de tribe voor door middel van een visitekaartje. Aan de hand van dit voorbeeld kun je zien wat de werkwijze is voor het ontwerpen en maken van een online visitekaartje en hoe de HTML, CSS en JS er uit ziet.
+Elke frontender bij [FDND](https://fdnd.nl) stelt zichzelf binnen de tribe voor door middel van een visitekaartje. Aan de hand van dit voorbeeld kun je zien wat de werkwijze is voor het ontwerpen en maken van een visitekaartje en hoe de HTML, CSS en JS er uit ziet.
 
 ## Doel van deze opdracht
 
