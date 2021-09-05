@@ -123,14 +123,20 @@ Eerst voeg je de nieuwe code toe aan je lokale _repository_ zodat Github weet wa
 <summary>Aanpak</summary>
 
 1. Eerst moet je de gewijzigde code toevoegen aan je lokale _repository_ . Schrijf een goede titel en optioneel een beschrijving en klik [Commit to Master]
-![image](https://user-images.githubusercontent.com/1391509/132139373-76e515f6-5e5a-4518-90d7-a53e0519ab8b.png)
+
+  <img width="1072" alt="image" src="https://user-images.githubusercontent.com/1391509/132139986-7c852111-0ced-463e-bb7a-60fd7b7f5670.png">
+
 
   
 2. Daarna kun je de wijzigingen uploaden naar de online _repository_ op Github. Klik op [Push origin]
-  ![image](https://user-images.githubusercontent.com/1391509/132139469-948c4007-44d7-4d71-82a1-a927b99dca18.png)
+
+ <img width="1072" alt="image" src="https://user-images.githubusercontent.com/1391509/132140000-a79a7daa-4a28-473f-94bc-0ca8b8cb2fc5.png">
+
 
 3. Om je website te publiceren moet je in de settings van je online _repository_ op Github de Github-Pages aanzetten. Select bij _Source_ de _master branch_ en  klik [Save]. Na enkele minuten zal je website online te zien zijn op de url. 
-![image](https://user-images.githubusercontent.com/1391509/132139848-851cb7a6-8a3c-4697-abe8-2ee58b7f10f3.png)
+
+  <img width="1260" alt="image" src="https://user-images.githubusercontent.com/1391509/132140014-fb36801a-9e70-4fcb-adbd-ebfad532c955.png">
+
 
 
 
