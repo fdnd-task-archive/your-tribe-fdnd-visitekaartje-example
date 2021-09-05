@@ -114,7 +114,9 @@ Workstation
 </details>
 
 ### Integreren
-*In de integratiefase voer je de aanpassingen door zodat iedereen ze kan zien.*
+In de integratiefase voer je de aanpassingen door zodat iedereen ze kan zien.
+
+De code die je hebt gemaakt ga je uploaden naar Github. Daarna maak je een url aan met Github pages, als je visitekaartje een url heeft staat het online en kunnen ook anderen je werk zien. 
 
 <details>
 <summary>Aanpak</summary>
@@ -125,9 +127,8 @@ Workstation
 
 #### Materiaal integratiefase
 
-- [Resource](https://example.com)
-- [Resource](https://example.com)
-- [Resource](https://example.com)
+- [Creating a Github pages site @ Github](https://docs.github.com/en/github/working-with-github-pages/creating-a-github-pages-site#creating-your-site)
+- [How To Publish Your HTML With Github Pages @ Github](https://anilemrah.medium.com/how-to-publish-your-html-with-github-pages-8f3f854e7d4)
 
 </details>
 
