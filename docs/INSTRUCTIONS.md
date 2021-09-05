@@ -34,6 +34,12 @@ In de analysefase inventariseer je wat er moet gebeuren om een taak uit te voere
 2. Bekijk de verschillende fases van de Development Lifecycle en wat je per stap gaat doen.
 3. Bespreek wat je aan werk verwacht en maak aantekening. (wat komt je bekend voor, wat heb je al vaker gedaan of wat lijkt je lastig)
 
+  #### Materiaal
+
+- [Resource](https://example.com)
+- [Resource](https://example.com)
+- [Resource](https://example.com)
+
 </details>
 
 ### Ontwerpen
@@ -50,6 +56,9 @@ Nu wordt het tijd om te kijken hoe het resultaat eruit zou kunnen zien. Dit is e
 1. Schets in je boekje! (Wat wil je over jezelf vertellen? Waar ben je geboren? Waar woon je nu? Wat is je lievelingseten? Heb je een bijbaan? Zit je op frisbee? Heb je ambities? Waar wil je goed in worden? Wat zou een leraar van je vorige school over jou vertellen? En wat zeggen je vrienden?)
 2. Bespreek je schets en ideeën met je squad en verzamel feedback
 3. Schets een een definitieve versie van je visitekaartje
+  
+  <img width="856" alt="image" src="https://user-images.githubusercontent.com/1391509/132128256-8fde0aeb-d022-44bc-b666-563d6fb12f88.png">
+
 
 #### Materiaal
 
