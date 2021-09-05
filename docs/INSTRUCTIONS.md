@@ -81,8 +81,6 @@ Op basis van je ontwerpschets ga je bedenken hoe je je ontwerp in code kan bouwe
 
 #### Materiaal
 
-Hieronder vind je een aantal bronnen die je kunt gebruiken bij het grip krijgen op de in dit voorbeeld gebruikte principes.
-
 Workstation
   - [Github](https://github.com)
   - [Github Desktop](https://desktop.github.com)
