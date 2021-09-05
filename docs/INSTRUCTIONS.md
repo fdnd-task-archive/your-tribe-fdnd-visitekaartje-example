@@ -22,22 +22,15 @@ Dit is een *voorbeeld* taak die wordt behandeld in het bijhorende college. Deze 
 Maak voor jezelf aantekeningen van dingen die je opvallen of dingen die je voor je eigen visitekaartje wilt gebruiken, in de volgende leertaak ga je namelijk je eigen visitekaartje maken.
 
 ### Analyseren
-*In de analysefase inventariseer je wat er moet gebeuren om een taak uit te voeren.*
 
 In de analysefase inventariseer je wat er moet gebeuren om een taak uit te voeren en formuleer je een aantal uitgangspunten waar je ontwerp aan moet voldoen.
 
 <details>
 <summary>Aanpak</summary>
 
-1. {geef de stappen}
-2. {die in deze fase}
-3. {doorlopen worden}
-
-#### Materiaal
-
-- [Resource](https://example.com)
-- [Resource](https://example.com)
-- [Resource](https://example.com)
+1. Lees de instructies van deze leertaak zorgvuldig door
+2. Bekijk bij werkwijze welke stappen je gaat nemen 
+3. Bespreek wat je aan werk verwacht en maak aantekening. (wat komt je bekend voor, wat heb je al vaker gedaan of wat lijkt je lastig)
 
 </details>
 
