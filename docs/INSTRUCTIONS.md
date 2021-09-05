@@ -28,8 +28,8 @@ In de analysefase inventariseer je wat er moet gebeuren om een taak uit te voere
 <details>
 <summary>Aanpak</summary>
 
-1. Lees de instructies van deze leertaak zorgvuldig door
-2. Bekijk bij werkwijze welke stappen je gaat nemen 
+1. Lees de instructies van deze leertaak zorgvuldig door.
+2. Bekijk de verschillende fasses van de Development Lifecycle en wat je per stap gaat doen.
 3. Bespreek wat je aan werk verwacht en maak aantekening. (wat komt je bekend voor, wat heb je al vaker gedaan of wat lijkt je lastig)
 
 </details>
