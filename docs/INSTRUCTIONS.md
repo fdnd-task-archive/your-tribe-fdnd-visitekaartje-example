@@ -91,6 +91,12 @@ De code schrijf je in een _code-editor_ zoals Visual Studio Code. Alle code van 
   
 3. De interactie op de pagina wordt bepaald door Javascript (JS). De JS code staat in een los document en moet ook in het HTML document worden gekoppeld. Dat kan in de ```<head>``` maar ook onder aan in het HTML document. je mag zelf weten hoe het JS file heet. In ons voorbeeld heet het file ```/script.js``` en staat het in de map ```/script/```.
   
+  ![image](https://user-images.githubusercontent.com/1391509/132133031-a5056ab0-87f7-4da8-ae87-8ab15c0d1f97.png)
+
+  ![image](https://user-images.githubusercontent.com/1391509/132133037-1fe50f4d-d087-48f4-8c06-51e575b555a3.png)
+
+  
+  
 
 #### Materiaal bouwfase
 
