@@ -149,7 +149,7 @@ Workstation
 
 </details>
 
-## Criteria
+## Criteria (dit kan weg voor een example taak?)
 *Definitions of done*
 
 Focus sprint 1 - De focus in deze sprint ligt op kennismaken, samenwerken en hoe je interface en vormgevingsprincipes kan toepassen voor een responsive design. Hoe gaan werken we bij FDND, wat wordt er van de student verwacht, welke mindset is nodig? En spelen met HTML, CSS en JS.
