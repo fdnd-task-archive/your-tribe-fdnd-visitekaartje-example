@@ -4,7 +4,6 @@
 Je bestudeert een uitgewerkt visitekaartje en bekijkt daarbinnen de semantiek in de HTML, de opmaak in CSS en de functionaliteit in Javascript.
 
 ## Context
-Leertaak: Voorbeeld van het ontwerpen en maken van een visitekaartje in HTML, CSS en JS.
 
 Deze leertaak hoort bij sprint 1 "Your Tribe". Dit is een voorbeeld taak en wordt behandeld tijdens de workshop. Je kunt deze repository gebruiken om de onderwerpen nog eens rustig na te lezen.
 
